@@ -1,3 +1,3 @@
 # Data-Scraping-using-Beautiful-Soup
-Scrapy is a fast high-level web crawling and web scraping framework. Scrapy  was used to scrape data from Amazon website. Results of search using “multivitamin”  keyword was scrapped. The result was converted to Pandas dataframe and saved as csv file.
-Because Amazon website is a dynamic site constructed with Javascript, tools like Selenium or Splash was needed. In this project [Splash](https://splash.readthedocs.io/en/stable/index.html) was used in conjunction with Scrapy.
+In this project, Beautiful Soup Python library was used to scrap data from Amazon website. Results of search using “multivitamin for kids”  keyword was scrapped from. The result was converted to a Pandas dataframe using pandas library and saved as csv file.
+Because Amazon website is a dynamic site constructed with Javascript, tools like Selenium or Splash is needed. In this project [Splash](https://splash.readthedocs.io/en/stable/index.html) was used in conjunction with Beautiful Soup.
